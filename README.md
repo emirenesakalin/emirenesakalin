@@ -52,3 +52,4 @@ I love **learning new things** 🧠 and **travelling around the world** ✈️.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-enes-akalin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logoColor=white)](https://portfolly.io/emir-enes-akalin)
